@@ -3,3 +3,6 @@ Versione 3
 Modifica fast-forward
 
 Modifica su recursiveBranch
+
+Modificato dal branch conflict
+Modificato dal master
